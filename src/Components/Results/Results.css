@@ -1,0 +1,30 @@
+.results{
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box p{
+    direction: rtl;
+    font-size: 14px;
+}
+
+.icon-box {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: rgb(255, 208, 0);
+    text-align: center;
+    line-height: 90px;
+}
+
+.icon-box .icon {
+    font-size: 35px;
+    color: #fff;
+}

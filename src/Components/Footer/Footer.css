@@ -1,0 +1,42 @@
+footer{
+    padding:20px;
+    margin:10px;
+}
+.right .brand span {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.right .brand {
+    margin: 10px;
+}
+
+.right .address span {
+    font-size: 14px;
+
+}
+
+.icon {
+    margin: 5px;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+footer .center .numbers .whatsapp {
+    color: rgb(144, 228, 17);
+}
+
+footer .center .numbers .telegram {
+    color: rgb(118, 169, 245);
+}
+.copyright{
+    width:100%;
+    height:30px;
+    background-color: rgb(255, 166, 0);
+    direction:rtl;
+    text-align: center;
+    font-size: 13px;
+    line-height: 30px;
+}
